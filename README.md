@@ -33,4 +33,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcopolello&show_icons=true&locale=en&layout=compact" alt="marcopolello" /></p>
-<img width="400px" height="200px" src="https://www.codewars.com/users/marcopolello/badges/large" alt="aws" width="40" height="40"/>
