@@ -37,7 +37,7 @@
             <a href="https://www.perl.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="aws" width="40" height="50"/> </a> <br>
         </p>
     </div>
-    <div>
+    <div align="center">
         <a align="center" href="https://app.daily.dev/marcopolello"><img src="https://api.daily.dev/devcards/1c5bddab6d5d4feca671a34f895012f4.png?r=7wd" width="400" alt="marcopolello's Dev Card"/></a>
     </div>
 </div>
