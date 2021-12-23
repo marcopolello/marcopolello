@@ -8,8 +8,8 @@
 <br>
 <div style="display:flex;justify-content:space-around">
     <div>
-        <h3 align="left">Languages and Tools:</h3>
-        <p align="left">
+        <h3 align="center">Languages and Tools:</h3>
+        <p align="center">
             <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
             <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
             <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -38,10 +38,10 @@
         </p>
     </div>
     <div>
-        <a align="right" href="https://app.daily.dev/marcopolello"><img src="https://api.daily.dev/devcards/1c5bddab6d5d4feca671a34f895012f4.png?r=7wd" width="400" alt="marcopolello's Dev Card"/></a>
+        <a align="center" href="https://app.daily.dev/marcopolello"><img src="https://api.daily.dev/devcards/1c5bddab6d5d4feca671a34f895012f4.png?r=7wd" width="400" alt="marcopolello's Dev Card"/></a>
     </div>
 </div>
 <br>
-<div style="display:flex;justify-content:center">
+<div align="center" style="display:flex;justify-content:center">
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcopolello&show_icons=true&locale=en&layout=compact" alt="marcopolello" /></p>
 </div>
