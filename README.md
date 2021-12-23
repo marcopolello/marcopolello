@@ -34,7 +34,7 @@
             <a href="https://www.perl.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="aws" width="40" height="50"/>
     </p>
     </div>
-    <div>
+    <div align="right">
         <a href="https://app.daily.dev/marcopolello">
         <img src="https://api.daily.dev/devcards/1c5bddab6d5d4feca671a34f895012f4.png?r=70n" width="400" alt="marcopolello's Dev Card"/>
         </a>
