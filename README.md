@@ -39,7 +39,7 @@
     </div>
     <br>
 <div align="center" style="display:flex;justify-content:center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" alt="marcopolello" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcopolello&show_icons=true&theme=tokyonight" alt="marcopolello" /></p>
 </div>
 <br>
 <div align="center">
