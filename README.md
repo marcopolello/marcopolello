@@ -42,6 +42,10 @@
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcopolello&show_icons=true&theme=tokyonight" alt="marcopolello" /></p>
 </div>
 <br>
+<div align="center" style="display:flex;justify-content:center">
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopolello&layout=compact&theme=material-palenight" alt="marcopolello" /></p>
+</div>
+<br>
 <div align="center">
         <a align="center" href="https://app.daily.dev/marcopolello"><img src="https://api.daily.dev/devcards/1c5bddab6d5d4feca671a34f895012f4.png?r=7wd" width="400" alt="marcopolello's Dev Card"/></a>
 </div>
