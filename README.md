@@ -27,12 +27,17 @@ I've been writing code for 5 years, i started with html, css, javascript e php. 
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<div style="display: flex; justify-content: space-between;">
-
-<a href="https://github.com/marcopolello" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopolello&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="https://app.daily.dev/marcopolello"><img src="https://api.daily.dev/devcards/v2/Cqrg6YSqvPxZ99YcHJ1C6.png?type=default&r=9vz" width="356" alt="marcopolello's Dev Card"/></a>
-
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%;">
+      <a href="https://github.com/marcopolello" style="display: inline-block;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopolello&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+      </a>
+    </td>
+    <td style="width: 50%;">
+      <a href="https://app.daily.dev/marcopolello" style="display: inline-block;">
+        <img src="https://api.daily.dev/devcards/v2/Cqrg6YSqvPxZ99YcHJ1C6.png?type=default&r=9vz" alt="marcopolello's Dev Card"/>
+      </a>
+    </td>
+  </tr>
+</table>
